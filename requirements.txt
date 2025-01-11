@@ -6,5 +6,6 @@ numpy
 catboost
 xgboost
 numpy
+Flask
 ## this ll automatically trigger setup.py 
 -e .
